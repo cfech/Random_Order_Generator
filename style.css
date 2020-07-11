@@ -1,0 +1,52 @@
+.listCol{
+    text-align: center;
+}
+
+li{
+    width: 30%;
+    margin: auto;
+    font-size: 30px;
+}
+
+.jH1{
+    text-align: center;
+    
+}
+.listCol{
+    border: 2px solid black;
+    height: 425px;
+    overflow-x: auto;
+    background-color: #7395ae;
+    margin-bottom: 10px;
+}
+
+
+.History{
+    border: 2px solid black;
+    height: 500px;
+    overflow-x: auto;
+    background-color: #7395ae;
+    margin-bottom: 20px;
+}
+
+hr{
+    border: 3px solid black;
+}
+
+body {
+    background-color: #5d5c61;
+}
+
+.jumbotron{
+    background-color: #557a95;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #14a76c;
+}
+button:hover{
+
+    background-color: white;
+    color: black;
+}
