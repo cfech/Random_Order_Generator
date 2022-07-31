@@ -5,7 +5,7 @@ var count = 0
 
 const getRandomDraftOrder = () => {
     console.log("clicked")
-    var members = ["Connor", "Dan", "Evan", "Gabe", "Ethan", "Andreas", "Alec"]
+    var members = ["Connor", "Dan", "Evan", "Vito", "Ethan", "Andreas", "Alec"]
     var newArr = members.slice()
     console.log("getRandomDraftOrder -> newArr", newArr)
     for (let i = newArr.length - 1; i > 0; i--) {
